@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marikullom
-- 👀 I’m interested in web development & design
-- 🌱 I’m currently taking steps to becoming a full-stack web developer.
+- 👀 I’m interested in web development & design, data analysis & visualization, and business intelligence.
+- 🌱 I’m currently working as a data analyst.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me itsmariullom@gmail.com
 
